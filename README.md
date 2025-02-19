@@ -8,3 +8,6 @@ mkdir data
 mv *.csv data
 # Preprocess data and plot time series graph:
 All is in file `eda.ipynb`
+
+# Basic analysis:
+Using `analysis.ipynb`
