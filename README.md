@@ -18,6 +18,7 @@ AR(1):
 - MAE: 72.75
 - R2: 0.010
 - Low performance due to seasonality.
+  
 OLS:
 - Quaterlity (linear model):
   - MSE: 3116.69
