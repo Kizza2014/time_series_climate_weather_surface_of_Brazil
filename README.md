@@ -9,6 +9,8 @@ mv *.csv data
 # Preprocess data and plot time series graph:
 All is in file `eda.ipynb`
 
+Final data is in `prcp_monthly.csv`
+
 # Basic analysis:
 Using `analysis.ipynb`
 
