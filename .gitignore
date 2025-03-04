@@ -10,7 +10,6 @@
 /.zsh_history
 /.zshrc
 /__pycache__
-/data
 /original_data
 /.condarc
 /.docker
