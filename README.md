@@ -33,11 +33,13 @@ Using `analysis.ipynb`
 
 ### Exponential smoothing family:
 ##### Holt Winters:
-- MSE: 2459.18
-- MAE: 39.62
-- R2: 0.688
+- MSE: 1077.66
+- RMSE: 32.83
+- MAE: 24.71
+- R2: 0.855
 
 ##### ETS:
-- MSE: 2441.13
-- MAE: 36.47
-- R2: 0.690
+- MSE: 1057.33
+- RMSE: 32.52
+- MAE: 24.26
+- R2: 0.858
