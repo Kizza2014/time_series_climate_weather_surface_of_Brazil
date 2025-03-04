@@ -23,13 +23,19 @@ Using `analysis.ipynb`
   
 ### OLS:
 - Quaterlity (linear model):
-  - MSE: 3116.69
-  - MAE: 47.12
-  - R2: 0.605
+  - MSE: 1756.59
+  - RMSE: 41.91
+  - MAE: 33.34
+  - R2: 0.764
+  - AIC: 1899.79
+  - BIC: 1915.75
 - Monthly (linear model):
-  - MSE: 2554.62
-  - MAE: 43.41
-  - R2: 0.676
+  - MSE: 1087.24
+  - RMSE: 32.97
+  - MAE: 24.86
+  - R²: 0.854
+  - AIC: 1824.68
+  - BIC: 1866.19
 
 ### Exponential smoothing family:
 ##### Holt Winters:
@@ -37,9 +43,13 @@ Using `analysis.ipynb`
 - RMSE: 32.83
 - MAE: 24.71
 - R2: 0.855
+- AIC: 1327.97
+- BIC: 1372.67
 
 ##### ETS:
 - MSE: 1057.33
 - RMSE: 32.52
 - MAE: 24.26
 - R2: 0.858
+- AIC: 1830.95
+- BIC: 1882.04
